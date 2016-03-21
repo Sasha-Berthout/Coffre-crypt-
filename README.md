@@ -12,6 +12,9 @@ Il y a 3 programmes importants dans ce coffre:
 ATTENTION : Il faut éviter de lancer les .bat car cela destabilise le bon fonctionnement du coffre et peut amener à des contradictions entre les différents fichiers.
 
 
+Le programme n'est pas compatible avec les ordinateurs ayant un système d'explotation autre que WINDOWS et nécessite python 3.5
+
+
 [Utilisation]
 
 - Coffre est le programme principal, celui qui permet d'ouvrir le coffre avec le mot de passe correct ou de le fermer.
